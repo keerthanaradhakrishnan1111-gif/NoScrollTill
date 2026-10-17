@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoScrollTill</string>
+    <string name="accessibility_service_description">
+    Detects when Instagram is opened so NoScrollTill can enforce your study goal.
+</string>
+</resources>
